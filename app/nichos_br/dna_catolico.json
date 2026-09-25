@@ -1,0 +1,40 @@
+{
+  "nicho": "Católicos / Fé Cristã",
+  "arquétipo_protagonista": "O Mensageiro da Fé / O Intercessor",
+  "antagonistas_fixos": [
+    "O inimigo (Maligno)",
+    "As tentações do mundo moderno",
+    "O desespero / A ansiedade",
+    "A doença"
+  ],
+  "tom_de_voz": {
+    "estilo": "Reverente, pacífico, reconfortante, focado em esperança e milagres.",
+    "girias_e_termos": [
+      "Nossa Senhora",
+      "providência",
+      "Amém",
+      "intercessão",
+      "graça",
+      "bênção",
+      "Rosário"
+    ]
+  },
+  "fontes_de_conflito_validadas": [
+    "Cansaço mental e exaustão com as lutas da vida",
+    "Doenças ou crises financeiras na família",
+    "Jovens se afastando da fé",
+    "Ataques do inimigo para tirar a paz do lar"
+  ],
+  "mpt_video_terms": [
+    "catholic church",
+    "rosary beads",
+    "praying hands",
+    "jesus cross",
+    "stained glass",
+    "peaceful nature sunlight"
+  ],
+  "ctas_validados": [
+    "Se você confia na providência de Deus, digite Amém Senhor nos comentários.",
+    "Compartilhe esta oração com alguém que precisa de conforto hoje."
+  ]
+}

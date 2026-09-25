@@ -1,0 +1,41 @@
+{
+  "nicho": "Política Pró-Bolsonaro / Direita",
+  "arquétipo_protagonista": "O Patriota Alerta / O Cidadão Indignado",
+  "antagonistas_fixos": [
+    "O Sistema",
+    "STF / Supremo",
+    "A Mídia Militante",
+    "A Esquerda / Comunismo",
+    "Impostos abusivos"
+  ],
+  "tom_de_voz": {
+    "estilo": "Urgente, agressivo, tom de denúncia de censura, defesa ferrenha de valores tradicionais.",
+    "girias_e_termos": [
+      "patriota",
+      "liberdade",
+      "absurdo",
+      "fazueli",
+      "censura",
+      "família",
+      "sistema"
+    ]
+  },
+  "fontes_de_conflito_validadas": [
+    "Aumento desenfreado de impostos e taxas",
+    "Censura e perda de liberdade de expressão",
+    "Inversão de valores e ataques à família tradicional",
+    "Risco do Brasil virar uma Venezuela"
+  ],
+  "mpt_video_terms": [
+    "brazil flag green yellow",
+    "protest",
+    "police",
+    "angry person bills",
+    "military",
+    "praying"
+  ],
+  "ctas_validados": [
+    "Se você não aceita virar uma Venezuela, digite DEUS PÁTRIA E FAMÍLIA nos comentários!",
+    "Compartilhe antes que eles mandem derrubar este vídeo!"
+  ]
+}

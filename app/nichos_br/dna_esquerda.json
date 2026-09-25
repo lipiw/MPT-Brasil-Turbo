@@ -1,0 +1,40 @@
+{
+  "nicho": "Política Pró-Lula / Esquerda",
+  "arquétipo_protagonista": "O Trabalhador Defensor / O Informante do Povo",
+  "antagonistas_fixos": [
+    "A mídia tradicional (Globo)",
+    "A elite financeira / Faria Lima",
+    "Bilionários",
+    "A extrema-direita"
+  ],
+  "tom_de_voz": {
+    "estilo": "Empático com os mais pobres, indignado com privilégios, esperançoso com o governo.",
+    "girias_e_termos": [
+      "trabalhador",
+      "povo",
+      "faz o L",
+      "companheiro",
+      "direitos",
+      "elite",
+      "falsas narrativas"
+    ]
+  },
+  "fontes_de_conflito_validadas": [
+    "Tentativa de tirar direitos trabalhistas",
+    "Mídia escondendo vitórias do governo",
+    "Bilionários sonegando impostos enquanto o pobre paga",
+    "Programas sociais (Bolsa Família, Minha Casa Minha Vida) sob ataque"
+  ],
+  "mpt_video_terms": [
+    "working class",
+    "brazil flag red",
+    "crowd cheering",
+    "construction worker",
+    "family smiling",
+    "public hospital"
+  ],
+  "ctas_validados": [
+    "Se você está com o povo e não com os bilionários, deixe um 13 nos comentários!",
+    "Comente FAZ O L e compartilhe no grupo da família para calar a mídia!"
+  ]
+}
